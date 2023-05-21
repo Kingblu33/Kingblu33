@@ -1,20 +1,20 @@
-# Demmar Allen
+# Demmar Allen :rocket:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/demmar-allen-94179b194/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey.svg)](https://github.com/Kingblu33)
 
-## About Me
+## About Me :wave:
 
 I am a passionate software developer with expertise in various programming languages and frameworks. I enjoy building efficient and robust software solutions, constantly learning and exploring new technologies to enhance my skills.
 
-## Skills
+## Skills :computer:
 
 - **Programming Languages:** JavaScript, Python, Java
 - **Web Development:** HTML, CSS, JavaScript (ES6+), React.js, Node.js, Express.js
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Testing:** Jest
 
-## Contact Me
+## Contact Me :mailbox:
 
 Feel free to reach out to me through the following channels:
 
@@ -23,4 +23,5 @@ Feel free to reach out to me through the following channels:
 - Email: DemmarBlue@gmail.com
 - Portfolio: [demmarallen.com](https://www.demmarallen.com)
 
-I'm open to new opportunities and collaboration. Let's connect and build something awesome together!
+I'm open to new opportunities and collaboration. Let's connect and build something awesome together! :rocket:
+
